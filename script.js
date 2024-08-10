@@ -18,7 +18,7 @@ const colisao = setInterval(() =>{
         mario.style.animation = 'none'
         mario.style.bottom = `${posicaoMario}px`
 
-        mario.src = 'imagens/game-over.png'
+        mario.src = 'game-over.png'
         mario.style.width = '75px'
         mario.style.marginLeft = '50px' 
 
